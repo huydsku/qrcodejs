@@ -1,15 +1,15 @@
-Mã QR hay mã hai chi?u là m?t mã v?ch ma tr?n (hay mã v?ch hai chi?u, mã ph?n h?i nhanh) du?c phát tri?n b?i công ty Denso Wave (Nh?t B?n) vào nam 1994. Ch? "QR" xu?t phát t? "Quick Response", trong ti?ng Anh có nghia là dáp ?ng nhanh, vì ngu?i t?o ra nó có ý d?nh cho phép mã du?c gi?i mã ? t?c d? cao. Các mã QR du?c s? d?ng ph? bi?n nh?t ? Nh?t B?n, Trung Qu?c, và hi?n là lo?i mã hai chi?u thông d?ng nh?t ? Nh?t B?n.
+QR CODE:
 
-M?c dù lúc d?u mã QR du?c dùng d? theo dõi các b? ph?n trong s?n xu?t xe hoi, hi?n nay nó du?c dùng trong qu?n lý ki?m kê ? nhi?u ngành khác nhau. G?n dây hon, ph?n m?m d?c mã QR dã du?c cài vào di?n tho?i di d?ng có g?n camera (camera phone) ? Nh?t. Ði?u này dua d?n các ?ng d?ng m?i và da d?ng hu?ng v? ngu?i tiêu dùng, nh?m làm nh? nhàng vi?c nh?p d? li?u vào di?n tho?i di d?ng, v?n không h?p d?n m?y. Mã QR cung du?c thêm vào danh thi?p, làm don gi?n di r?t nhi?u vi?c nh?p d? ki?n cá nhân c?a ngu?i m?i quen vào s? d?a ch? trên di?n tho?i di d?ng.
+A QR code (abbreviated from Quick Response code) is a type of matrix barcode (or two-dimensional barcode) first designed in 1994 for the automotive industry in Japan. A barcode is a machine-readable optical label that contains information about the item to which it is attached. In practice, QR codes often contain data for a locator, identifier, or tracker that points to a website or application. A QR code uses four standardized encoding modes (numeric, alphanumeric, byte/binary, and kanji) to store data efficiently; extensions may also be used.[1]
 
-Ngu?i dùng có chuong trình thu tín hi?u (capture program) và máy tính có giao di?n RS-232C có th? dùng máy quét ?nh (scanner) d? thu d? li?u.
+The Quick Response system became popular outside the automotive industry due to its fast readability and greater storage capacity compared to standard UPC barcodes. Applications include product tracking, item identification, time tracking, document management, and general marketing.[2]
 
-Tiêu chu?n Nh?t B?n cho các mã QR, JIS X 0510, du?c công b? vào tháng 1 nam 1999, và Tiêu chu?n Qu?c t? ISO tuong ?ng, ISO/IEC18004, du?c ch?p thu?n vào tháng 6 nam 2000.
+A QR code consists of black squares arranged in a square grid on a white background, which can be read by an imaging device such as a camera, and processed using Reed–Solomon error correction until the image can be appropriately interpreted. The required data is then extracted from patterns that are present in both horizontal and vertical components of the image
 
-H? th?ng mã QR du?c Denso Wave phát minh mam 1994. M?c dích chính là theo dõi xe c? trong quá trình s?n xu?t. Nó du?c thi?t k? d? cho phép quét các b? ph?n v?i t?c d? cao.[1] M?c dù nh?ng ?ng d?ng ban d?u ch? d? theo dõi các b? ph?n c?a xe, nhung hi?n nay mã QR du?c ?ng d?ng trong nhi?u ng? c?nh khác nhau bao g?m c? các ?ng d?ng theo dõi thuong m?i và ?ng d?ng hu?ng t?i s? ti?n l?i cho nh?ng ngu?i s? d?ng di?n tho?i di d?ng. Mã QR có th? du?c s? d?ng d? hi?n th? ch? cho ngu?i s? d?ng, d? thêm danh thi?p vCard vào thi?t b? c?a ngu?i s? d?ng, d? m? URI, d? vi?t e-mail hay tin nh?n, th?m chí thanh toán di?n t? m?t cách nhanh chóng, d?c bi?t ? Trung Qu?c khi h?u nhu m?i ngu?i d?u s? d?ng thanh toán qua QR[2]. Ngu?i s? d?ng có th? t?o và in mã QR c?a riêng h? cho nh?ng ngu?i khác quét và s? d?ng d? ghé tham m?t trong các trang ph?i tr? ti?n và mi?n phí thông qua mã QR. Nó hi?n tr? thành m?t trong nh?ng ki?u s? d?ng nhi?u nh?t trong nhóm mã v?ch hai chi?u.
+HISTORY:
 
-Kh? nang luu tr? d? li?u mã QR
-S? don thu?n	T?i da 7.089 ký t?
-S? và ch? cái	T?i da 4.296 ký t?
-S? nh? phân (8 bit)	T?i da 2.953 byte
-Kanji/Kana	T?i da 1.817 ký t?
+The QR code system was invented in 1994 by Masahiro Hara from the Japanese company Denso Wave.[3] The initial design was influenced by the black and white pieces on a Go board.[4] Its purpose was to track vehicles during manufacturing; it was designed to allow high-speed component scanning.[5] QR codes are now used in a much broader context, including both commercial tracking applications and convenience-oriented applications aimed at mobile-phone users (termed mobile tagging). QR codes may be used to display text to the user, to open a webpage on the user's device, to add a vCard contact to the user's device, to open a Uniform Resource Identifier (URI), to connect to a wireless network, or to compose an email or text message. There are a great many QR code generators available as software or as online tools that are either free, or require a paid subscription.[6] The QR code has become one of the most-used types of two-dimensional code.[7]
+
+ADOPTION:
+
+During the month of June 2011, 14 million American mobile users scanned a QR code or a barcode. Some 58% of those users scanned a QR or barcode from their homes, while 39% scanned from retail stores; 53% of the 14 million users were men between the ages of 18 and 34.[8] QR code usage decreased to 9.76 million in 2018 but is expected to grow to a total of 11 million households by the end of 2020.[9]
