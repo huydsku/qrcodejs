@@ -1,0 +1,7 @@
+Mã QR hay mã hai chi?u là m?t mã v?ch ma tr?n (hay mã v?ch hai chi?u, mã ph?n h?i nhanh) du?c phát tri?n b?i công ty Denso Wave (Nh?t B?n) vào nam 1994. Ch? "QR" xu?t phát t? "Quick Response", trong ti?ng Anh có nghia là dáp ?ng nhanh, vì ngu?i t?o ra nó có ý d?nh cho phép mã du?c gi?i mã ? t?c d? cao. Các mã QR du?c s? d?ng ph? bi?n nh?t ? Nh?t B?n, Trung Qu?c, và hi?n là lo?i mã hai chi?u thông d?ng nh?t ? Nh?t B?n.
+
+M?c dù lúc d?u mã QR du?c dùng d? theo dõi các b? ph?n trong s?n xu?t xe hoi, hi?n nay nó du?c dùng trong qu?n lý ki?m kê ? nhi?u ngành khác nhau. G?n dây hon, ph?n m?m d?c mã QR dã du?c cài vào di?n tho?i di d?ng có g?n camera (camera phone) ? Nh?t. Ði?u này dua d?n các ?ng d?ng m?i và da d?ng hu?ng v? ngu?i tiêu dùng, nh?m làm nh? nhàng vi?c nh?p d? li?u vào di?n tho?i di d?ng, v?n không h?p d?n m?y. Mã QR cung du?c thêm vào danh thi?p, làm don gi?n di r?t nhi?u vi?c nh?p d? ki?n cá nhân c?a ngu?i m?i quen vào s? d?a ch? trên di?n tho?i di d?ng.
+
+Ngu?i dùng có chuong trình thu tín hi?u (capture program) và máy tính có giao di?n RS-232C có th? dùng máy quét ?nh (scanner) d? thu d? li?u.
+
+Tiêu chu?n Nh?t B?n cho các mã QR, JIS X 0510, du?c công b? vào tháng 1 nam 1999, và Tiêu chu?n Qu?c t? ISO tuong ?ng, ISO/IEC18004, du?c ch?p thu?n vào tháng 6 nam 2000.
